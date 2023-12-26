@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/object-detection-recipe.git
+git clone https://https://github.com/SriramR123/Recipe_suggestor.git
 cd object-detection-recipe
 Install Dependencies:
 
